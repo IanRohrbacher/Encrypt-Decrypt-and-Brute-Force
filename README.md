@@ -1,5 +1,5 @@
 # Encrypt, Decrypt, and Brute Force
-Spring 2025 — CS 32301: Human Interface Computing — Class Assignment
+Spring 2025 — CS 32301: Human Interface Computing — Class Assignment <br>
 Python scripts for simple XOR encryption/decryption with Base64 encoding, plus a brute-force key guessing tool.
 
 
@@ -55,3 +55,4 @@ Encryption uses XOR with a key, then Base64 encoding. Decryption reverses this p
 
 ## License
 The code in this project is licensed under the MIT license.
+
